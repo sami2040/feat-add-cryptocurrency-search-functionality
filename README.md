@@ -5,3 +5,4 @@ docs: add portfolio setup examples
 feat: implement asset allocation chart
 feat: implement asset allocation chart
 feat: add transaction history page
+fix: correct profit percentage calculation
