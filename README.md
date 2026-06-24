@@ -6,3 +6,4 @@ feat: implement asset allocation chart
 feat: implement asset allocation chart
 feat: add transaction history page
 fix: correct profit percentage calculation
+test: add transaction service unit tests
